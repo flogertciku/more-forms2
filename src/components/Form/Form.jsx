@@ -45,6 +45,7 @@ function Form( {setUsers,users}) {
         console.log("submit form")
         const userFromForm = 
             {
+            
                 firstName :firstName.name,
                 email:email.email
             }
